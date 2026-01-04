@@ -35,5 +35,5 @@ cd military-monitor
 pip install -r requirements.txt
 
 # Run the application
-python monitor2.py
+python monitor.py
 
